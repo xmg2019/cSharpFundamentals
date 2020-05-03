@@ -1,0 +1,6 @@
+C:\Users\xiaomin\source\repos\DotNetFrameworkExercises\DotNetFrameworkExercises\bin\Debug\DotNetFrameworkExercises.exe.config
+C:\Users\xiaomin\source\repos\DotNetFrameworkExercises\DotNetFrameworkExercises\bin\Debug\DotNetFrameworkExercises.exe
+C:\Users\xiaomin\source\repos\DotNetFrameworkExercises\DotNetFrameworkExercises\bin\Debug\DotNetFrameworkExercises.pdb
+C:\Users\xiaomin\source\repos\DotNetFrameworkExercises\DotNetFrameworkExercises\obj\Debug\DotNetFrameworkExercises.csprojAssemblyReference.cache
+C:\Users\xiaomin\source\repos\DotNetFrameworkExercises\DotNetFrameworkExercises\obj\Debug\DotNetFrameworkExercises.exe
+C:\Users\xiaomin\source\repos\DotNetFrameworkExercises\DotNetFrameworkExercises\obj\Debug\DotNetFrameworkExercises.pdb
