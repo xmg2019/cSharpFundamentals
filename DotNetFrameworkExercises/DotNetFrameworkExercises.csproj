@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>DotNetFrameworkExercises.Exercise_3_SectionE_Qn3</StartupObject>
+    <StartupObject>DotNetFrameworkExercises.Exercise_5_SectionH_Qn5</StartupObject>
   </PropertyGroup>
   <PropertyGroup />
   <ItemGroup>
@@ -109,20 +109,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="bin\Debug\DotNetFrameworkExercises.exe.config" />
-    <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
-    <None Include="obj\Debug\DotNetFrameworkExercises.csprojAssemblyReference.cache" />
   </ItemGroup>
-  <ItemGroup>
-    <Content Include="bin\Debug\DotNetFrameworkExercises.exe" />
-    <Content Include="bin\Debug\DotNetFrameworkExercises.pdb" />
-    <Content Include="obj\Debug\DotNetFrameworkExercises.csproj.FileListAbsolute.txt" />
-    <Content Include="obj\Debug\DotNetFrameworkExercises.exe" />
-    <Content Include="obj\Debug\DotNetFrameworkExercises.pdb" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="bin\Release\" />
-    <Folder Include="obj\Debug\TempPE\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
